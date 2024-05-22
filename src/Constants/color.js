@@ -1,0 +1,17 @@
+export default {
+  chinese_silver: "#C7C8C7",
+  matterHorn: "#4c4c4c",
+  white: "#FFFFFF",
+  gray60: "#999999",
+  quickSilver: "#A6A6A6",
+  dark_grey: "#AEAEAE",
+  gray75: "#BFBFBF",
+  red: "#F43738",
+  ford_gray: "#979797",
+  pink_swan: "#B5B0B0",
+  darkred: "#F43738",
+  darkestBlue: "#17171A",
+  mainBackgroundColor: "#2E2E2E",
+  soft_prince: "#41CCFF",
+  dodger_blue: "#32C5FF",
+};
